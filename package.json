@@ -1,0 +1,19 @@
+{
+  "name": "delta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shealtiel-Li/delta.git"
+  },
+  "author": "Shealtiel Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shealtiel-Li/delta/issues"
+  },
+  "homepage": "https://github.com/Shealtiel-Li/delta#readme"
+}
