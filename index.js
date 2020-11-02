@@ -1,2 +1,5 @@
 //数学运算
-export * from './math';
+const Math = require("./math")
+module.exports = {
+    Math: Math,
+}

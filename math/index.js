@@ -58,3 +58,10 @@ function div(v1,v2){
     const r2 = Number(v2.toString().replace('.', ''));
     return (r1 / r2) * 10 ** (t2 - t1);
 }
+
+module.exports={
+    add:add,
+    sub:sub,
+    mul:mul,
+    div:div,
+}
